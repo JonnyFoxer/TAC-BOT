@@ -40,5 +40,3 @@ bot.on("message", async message => {
 bot.on("ready", () => {
   bot.user.setActivity(`tugaarmy.pt | tachelp`, {type:"WATCHING"});
 });
-
-bot.login("NjY1NTk5MzY3ODk3NDE1Njkw.Xhn-Gg.1ICMHfN1v9Cv8Babl19hyWEIPbA");
